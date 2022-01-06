@@ -1,3 +1,3 @@
-# Aiffle Studing
+# Aiffel Studing
 Fighting
 
