@@ -4,13 +4,16 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/94760980/203727542-a72164ed-4587-41ff-8f9b-cc326bbbde9e.png"/></p>  
 
 <br/>
+</div>
+<div align="center">
+교육명 : K-Digital Training AI개발자 훈련 과정
+</div>
 <div align="center">
 ❤주관: 모두의연구소 AIFFEL❤
 </div>
 <div align="center">
 💙기간: 2021년 12월 27일 ~  2022년 6월 10일💙
 </div>
-
 
 
 ---
